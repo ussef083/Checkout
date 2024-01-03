@@ -1,4 +1,4 @@
-# Project Name Readme
+# Checkout Readme
 
 ## Overview
 
@@ -23,4 +23,6 @@ Make sure you have the following libraries installed:
 - `react-hook-form: Provides a simple way to manage forms in React with easy validation.`
 - `@hookform/resolvers: Resolvers for React Hook Form to support validation with various schemas.`
 - `cleave.js: A library for formatting input text as the user types.`
+
+## By : Youssef Wardi
 
