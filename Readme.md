@@ -24,5 +24,10 @@ Make sure you have the following libraries installed:
 - `@hookform/resolvers: Resolvers for React Hook Form to support validation with various schemas.`
 - `cleave.js: A library for formatting input text as the user types.`
 
+## Test Card Information
+For testing declined payments, you can use the following card number:
+
+- `Card Number: 4242 4242 4242 4000`
+
 ## By : Youssef Wardi
 
